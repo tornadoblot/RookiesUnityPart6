@@ -1,0 +1,11 @@
+/Users/electriclamb/Desktop/RookiesUnityPart6/Study/Study/bin/Debug/netcoreapp3.1/CSStudy.deps.json
+/Users/electriclamb/Desktop/RookiesUnityPart6/Study/Study/bin/Debug/netcoreapp3.1/CSStudy.runtimeconfig.json
+/Users/electriclamb/Desktop/RookiesUnityPart6/Study/Study/bin/Debug/netcoreapp3.1/CSStudy.runtimeconfig.dev.json
+/Users/electriclamb/Desktop/RookiesUnityPart6/Study/Study/bin/Debug/netcoreapp3.1/CSStudy.dll
+/Users/electriclamb/Desktop/RookiesUnityPart6/Study/Study/bin/Debug/netcoreapp3.1/CSStudy.pdb
+/Users/electriclamb/Desktop/RookiesUnityPart6/Study/Study/obj/Debug/netcoreapp3.1/CSStudy.AssemblyInfoInputs.cache
+/Users/electriclamb/Desktop/RookiesUnityPart6/Study/Study/obj/Debug/netcoreapp3.1/CSStudy.AssemblyInfo.cs
+/Users/electriclamb/Desktop/RookiesUnityPart6/Study/Study/obj/Debug/netcoreapp3.1/CSStudy.csproj.CoreCompileInputs.cache
+/Users/electriclamb/Desktop/RookiesUnityPart6/Study/Study/obj/Debug/netcoreapp3.1/CSStudy.dll
+/Users/electriclamb/Desktop/RookiesUnityPart6/Study/Study/obj/Debug/netcoreapp3.1/CSStudy.pdb
+/Users/electriclamb/Desktop/RookiesUnityPart6/Study/Study/obj/Debug/netcoreapp3.1/CSStudy.genruntimeconfig.cache

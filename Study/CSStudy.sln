@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 16
 VisualStudioVersion = 16.0.810.25
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Study", "Study\Study.csproj", "{FC88D05F-44A9-4808-B682-CCD26C40A0FC}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CSStudy", "Study\CSStudy.csproj", "{FC88D05F-44A9-4808-B682-CCD26C40A0FC}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution

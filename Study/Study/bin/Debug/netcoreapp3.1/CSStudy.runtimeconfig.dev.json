@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "/Users/electriclamb/.dotnet/store/|arch|/|tfm|",
+      "/Users/electriclamb/.nuget/packages"
+    ]
+  }
+}

@@ -1,16 +1,19 @@
 ﻿<Properties StartupConfiguration="{FC88D05F-44A9-4808-B682-CCD26C40A0FC}|Default">
-  <MonoDevelop.Ide.ItemProperties.Study PreferredExecutionTarget="MonoDevelop.Default" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="Study/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Study/LINQ.cs">
     <Files>
-      <File FileName="Study/Program.cs" Line="51" Column="36" />
+      <File FileName="Study/Program.cs" Line="40" Column="10" />
+      <File FileName="Study/EmptyClass.cs" Line="81" Column="35" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="Study" expanded="True" selected="True">
-            <Node name="Study" expanded="True" />
+          <Node name="CSStudy" expanded="True" selected="True">
+            <Node name="CSStudy" expanded="True" />
           </Node>
         </State>
+      </Pad>
+      <Pad Id="MonoDevelop.Debugger.WatchPad">
+        <State />
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
@@ -20,4 +23,5 @@
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.CSStudy PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>

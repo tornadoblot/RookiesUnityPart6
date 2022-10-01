@@ -39,7 +39,8 @@ namespace Study
 
         }
 
-        static async Task Main(string[] args)
+        //static async Task Main(string[] args)
+        async Task Mained(string[] args)
         {
             //// 테스크가 완료 되었는지 안되어있는지는 별개의 문제 
             //Task t = Test();
