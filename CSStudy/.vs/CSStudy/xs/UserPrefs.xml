@@ -1,14 +1,15 @@
 ﻿<Properties StartupConfiguration="{FC88D05F-44A9-4808-B682-CCD26C40A0FC}|Default">
   <MonoDevelop.Ide.Workbench ActiveDocument="Study/LINQ.cs">
     <Files>
-      <File FileName="Study/Program.cs" Line="40" Column="10" />
-      <File FileName="Study/EmptyClass.cs" Line="81" Column="35" />
+      <File FileName="Study/LINQ.cs" Line="131" Column="67" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
-          <Node name="CSStudy" expanded="True" selected="True">
-            <Node name="CSStudy" expanded="True" />
+          <Node name="CSStudy" expanded="True">
+            <Node name="CSStudy" expanded="True">
+              <Node name="LINQ.cs" selected="True" />
+            </Node>
           </Node>
         </State>
       </Pad>
