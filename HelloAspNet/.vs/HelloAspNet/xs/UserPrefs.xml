@@ -1,12 +1,13 @@
-﻿<Properties StartupConfiguration="{C5E1F32E-E1E9-47CA-8109-93D1DBD7E8F9}|Default">
+﻿<Properties StartupConfiguration="{FAA9080C-0928-4083-B1C2-5BA92C9DFE43}|Default">
   <MonoDevelop.Ide.ItemProperties.HelloEmpty PreferredExecutionTarget="/Applications/Safari.app" />
   <MonoDevelop.Ide.ItemProperties.HelloBlazorClient FirstBuild="True" />
   <MonoDevelop.Ide.ItemProperties.HelloBlazorServer FirstBuild="True" />
   <MonoDevelop.Ide.Workbench ActiveDocument="HelloEmpty/Views/Home/Index.cshtml">
     <Files>
-      <File FileName="HelloEmpty/Controllers/HomeController.cs" Line="24" Column="30" />
       <File FileName="HelloEmpty/Models/HelloMessage.cs" Line="6" Column="44" />
-      <File FileName="HelloEmpty/Views/Home/Index.cshtml" Line="6" Column="1" />
+      <File FileName="HelloEmpty/Views/Home/Index.cshtml" Line="16" Column="20" />
+      <File FileName="HelloEmpty/Startup.cs" Line="14" Column="6" />
+      <File FileName="HelloEmpty/Controllers/HomeController.cs" Line="31" Column="18" NotebookId="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">

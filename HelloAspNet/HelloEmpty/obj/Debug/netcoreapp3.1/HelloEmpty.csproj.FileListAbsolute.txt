@@ -16,3 +16,15 @@
 /Users/electriclamb/Desktop/RookiesUnityPart6/HelloAspNet/HelloEmpty/obj/Debug/netcoreapp3.1/HelloEmpty.dll
 /Users/electriclamb/Desktop/RookiesUnityPart6/HelloAspNet/HelloEmpty/obj/Debug/netcoreapp3.1/HelloEmpty.pdb
 /Users/electriclamb/Desktop/RookiesUnityPart6/HelloAspNet/HelloEmpty/obj/Debug/netcoreapp3.1/HelloEmpty.genruntimeconfig.cache
+/Users/electriclamb/Desktop/RookiesUnityPart6/HelloAspNet/HelloEmpty/obj/Debug/netcoreapp3.1/HelloEmpty.RazorAssemblyInfo.cache
+/Users/electriclamb/Desktop/RookiesUnityPart6/HelloAspNet/HelloEmpty/obj/Debug/netcoreapp3.1/HelloEmpty.RazorAssemblyInfo.cs
+/Users/electriclamb/Desktop/RookiesUnityPart6/HelloAspNet/HelloEmpty/obj/Debug/netcoreapp3.1/HelloEmpty.TagHelpers.input.cache
+/Users/electriclamb/Desktop/RookiesUnityPart6/HelloAspNet/HelloEmpty/obj/Debug/netcoreapp3.1/HelloEmpty.TagHelpers.output.cache
+/Users/electriclamb/Desktop/RookiesUnityPart6/HelloAspNet/HelloEmpty/obj/Debug/netcoreapp3.1/HelloEmpty.RazorCoreGenerate.cache
+/Users/electriclamb/Desktop/RookiesUnityPart6/HelloAspNet/HelloEmpty/obj/Debug/netcoreapp3.1/Razor/Views/Home/Index.cshtml.g.cs
+/Users/electriclamb/Desktop/RookiesUnityPart6/HelloAspNet/HelloEmpty/obj/Debug/netcoreapp3.1/Razor/Views/_ViewImports.cshtml.g.cs
+/Users/electriclamb/Desktop/RookiesUnityPart6/HelloAspNet/HelloEmpty/obj/Debug/netcoreapp3.1/HelloEmpty.RazorTargetAssemblyInfo.cs
+/Users/electriclamb/Desktop/RookiesUnityPart6/HelloAspNet/HelloEmpty/bin/Debug/netcoreapp3.1/HelloEmpty.Views.dll
+/Users/electriclamb/Desktop/RookiesUnityPart6/HelloAspNet/HelloEmpty/bin/Debug/netcoreapp3.1/HelloEmpty.Views.pdb
+/Users/electriclamb/Desktop/RookiesUnityPart6/HelloAspNet/HelloEmpty/obj/Debug/netcoreapp3.1/HelloEmpty.Views.pdb
+/Users/electriclamb/Desktop/RookiesUnityPart6/HelloAspNet/HelloEmpty/obj/Debug/netcoreapp3.1/HelloEmpty.csproj.CopyComplete

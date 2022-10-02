@@ -23,5 +23,14 @@ namespace HelloEmpty.Controllers
 
             return View(msg);
         }
+
+        // post처리 인덱스 생성
+        [HttpPost]
+        public IActionResult Index(HelloMessage obj)
+        {
+            ViewBag.Noti = "Message Changed";
+            return View(obj);
+        }
+
     }
 }
