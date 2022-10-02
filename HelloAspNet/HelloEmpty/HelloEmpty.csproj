@@ -5,15 +5,12 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <None Remove="Controllers\" />
     <None Remove="Controllers %28복사본%29\" />
     <None Remove="Controllers %28다른 복사본%29\" />
-    <None Remove="Views\Home\" />
+    <None Remove="Pages\" />
   </ItemGroup>
   <ItemGroup>
-    <Folder Include="Controllers\" />
-    <Folder Include="Views\" />
     <Folder Include="Models\" />
-    <Folder Include="Views\Home\" />
+    <Folder Include="Pages\" />
   </ItemGroup>
 </Project>
