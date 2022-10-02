@@ -1,0 +1,25 @@
+﻿<Properties StartupConfiguration="{C5E1F32E-E1E9-47CA-8109-93D1DBD7E8F9}|Default">
+  <MonoDevelop.Ide.ItemProperties.HelloEmpty FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.HelloBlazorClient FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.HelloBlazorServer FirstBuild="True" />
+  <MonoDevelop.Ide.Workbench>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="HelloAspNet" expanded="True">
+            <Node name="HelloBlazorClient" selected="True" />
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.ItemProperties.HelloMVC FirstBuild="True" PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.HelloRazor FirstBuild="True" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.ItemProperties.HelloWebAPI FirstBuild="True" />
+</Properties>
