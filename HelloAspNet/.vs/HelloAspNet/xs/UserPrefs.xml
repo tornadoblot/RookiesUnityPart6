@@ -1,23 +1,31 @@
-﻿<Properties StartupConfiguration="{DED7EBC5-63B2-4546-9B0F-09E3F514E2DC}|Default">
+﻿<Properties StartupConfiguration="{E93B34AB-EBB5-4B93-B118-2CAD8686C43F}|Default">
   <MonoDevelop.Ide.ItemProperties.HelloEmpty PreferredExecutionTarget="/Applications/Safari.app" />
   <MonoDevelop.Ide.ItemProperties.HelloBlazorClient FirstBuild="True" />
-  <MonoDevelop.Ide.ItemProperties.HelloBlazorServer FirstBuild="True" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="HelloEmpty/Startup.cs">
+  <MonoDevelop.Ide.ItemProperties.HelloBlazorServer PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="HelloBlazorServer/Pages/FetchData.razor">
     <Files>
-      <File FileName="HelloEmpty/Models/HelloMessage.cs" Line="6" Column="44" />
-      <File FileName="HelloEmpty/Program.cs" Line="24" Column="14" />
-      <File FileName="HelloEmpty/Controllers/ValuesController.cs" Line="17" Column="9" />
-      <File FileName="HelloEmpty/Startup.cs" Line="1" Column="1" />
+      <File FileName="HelloBlazorServer/Startup.cs" Line="38" Column="14" />
+      <File FileName="HelloBlazorServer/Program.cs" />
+      <File FileName="HelloBlazorServer/Pages/_Host.cshtml" Line="23" Column="20" />
+      <File FileName="HelloBlazorServer/App.razor" Line="12" Column="1" />
+      <File FileName="HelloBlazorServer/Shared/MainLayout.razor" Line="4" Column="12" />
+      <File FileName="HelloBlazorServer/Shared/NavMenu.razor" Line="11" Column="59" />
+      <File FileName="HelloBlazorServer/Pages/FetchData.razor" Line="26" Column="23" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="HelloAspNet" expanded="True">
-            <Node name="HelloEmpty" expanded="True">
-              <Node name="Controllers" expanded="True" />
-              <Node name="Startup.cs" selected="True" />
+            <Node name="HelloBlazorServer" expanded="True">
+              <Node name="Data" expanded="True" />
+              <Node name="Pages" expanded="True">
+                <Node name="FetchData.razor" selected="True" />
+              </Node>
+              <Node name="Shared" expanded="True" />
+              <Node name="wwwroot" expanded="True">
+                <Node name="css" expanded="True" />
+              </Node>
             </Node>
-            <Node name="HelloWebAPI" expanded="True" />
           </Node>
         </State>
       </Pad>
