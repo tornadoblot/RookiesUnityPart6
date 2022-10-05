@@ -1,28 +1,23 @@
-﻿<Properties StartupConfiguration="{FAA9080C-0928-4083-B1C2-5BA92C9DFE43}|Default">
+﻿<Properties StartupConfiguration="{DED7EBC5-63B2-4546-9B0F-09E3F514E2DC}|Default">
   <MonoDevelop.Ide.ItemProperties.HelloEmpty PreferredExecutionTarget="/Applications/Safari.app" />
   <MonoDevelop.Ide.ItemProperties.HelloBlazorClient FirstBuild="True" />
   <MonoDevelop.Ide.ItemProperties.HelloBlazorServer FirstBuild="True" />
   <MonoDevelop.Ide.Workbench ActiveDocument="HelloEmpty/Startup.cs">
     <Files>
       <File FileName="HelloEmpty/Models/HelloMessage.cs" Line="6" Column="44" />
-      <File FileName="HelloEmpty/Program.cs" Line="21" Column="1" />
-      <File FileName="HelloEmpty/Pages/Index.cshtml" Line="12" Column="11" />
-      <File FileName="HelloEmpty/Pages/Index.cshtml.cs" Line="29" Column="43" NotebookId="1" />
-      <File FileName="HelloEmpty/Startup.cs" Line="1" Column="1" NotebookId="1" />
+      <File FileName="HelloEmpty/Program.cs" Line="24" Column="14" />
+      <File FileName="HelloEmpty/Controllers/ValuesController.cs" Line="17" Column="9" />
+      <File FileName="HelloEmpty/Startup.cs" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="HelloAspNet" expanded="True">
             <Node name="HelloEmpty" expanded="True">
-              <Node name="Models" expanded="True" />
-              <Node name="Pages" expanded="True">
-                <Node name="Index.cshtml" expanded="True" />
-              </Node>
-              <Node name="Properties" expanded="True" />
+              <Node name="Controllers" expanded="True" />
               <Node name="Startup.cs" selected="True" />
             </Node>
-            <Node name="HelloRazor" expanded="True" />
+            <Node name="HelloWebAPI" expanded="True" />
           </Node>
         </State>
       </Pad>
@@ -36,5 +31,5 @@
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.ItemProperties.HelloWebAPI FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.HelloWebAPI PreferredExecutionTarget="/Applications/Safari.app" />
 </Properties>

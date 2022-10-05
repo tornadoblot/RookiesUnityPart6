@@ -7,10 +7,10 @@
   <ItemGroup>
     <None Remove="Controllers %28복사본%29\" />
     <None Remove="Controllers %28다른 복사본%29\" />
-    <None Remove="Pages\" />
+    <None Remove="Controllers\" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Models\" />
-    <Folder Include="Pages\" />
+    <Folder Include="Controllers\" />
   </ItemGroup>
 </Project>
