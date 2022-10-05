@@ -1,29 +1,25 @@
-﻿<Properties StartupConfiguration="{E93B34AB-EBB5-4B93-B118-2CAD8686C43F}|Default">
+﻿<Properties StartupConfiguration="{0BDE2BFB-66DD-4245-9642-55C56D41AB44}|Default">
   <MonoDevelop.Ide.ItemProperties.HelloEmpty PreferredExecutionTarget="/Applications/Safari.app" />
-  <MonoDevelop.Ide.ItemProperties.HelloBlazorClient FirstBuild="True" />
+  <MonoDevelop.Ide.ItemProperties.HelloBlazorClient PreferredExecutionTarget="/Applications/Safari.app" />
   <MonoDevelop.Ide.ItemProperties.HelloBlazorServer PreferredExecutionTarget="/Applications/Safari.app" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="HelloBlazorServer/Pages/FetchData.razor">
+  <MonoDevelop.Ide.Workbench ActiveDocument="HelloBlazorClient/wwwroot/sample-data/weather.json">
     <Files>
-      <File FileName="HelloBlazorServer/Startup.cs" Line="38" Column="14" />
-      <File FileName="HelloBlazorServer/Program.cs" />
-      <File FileName="HelloBlazorServer/Pages/_Host.cshtml" Line="23" Column="20" />
-      <File FileName="HelloBlazorServer/App.razor" Line="12" Column="1" />
-      <File FileName="HelloBlazorServer/Shared/MainLayout.razor" Line="4" Column="12" />
-      <File FileName="HelloBlazorServer/Shared/NavMenu.razor" Line="11" Column="59" />
-      <File FileName="HelloBlazorServer/Pages/FetchData.razor" Line="26" Column="23" />
+      <File FileName="HelloBlazorClient/Pages/FetchData.razor" Line="19" Column="26" />
+      <File FileName="HelloBlazorClient/Program.cs" Line="1" Column="1" />
+      <File FileName="HelloBlazorClient/wwwroot/sample-data/weather.json" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="HelloAspNet" expanded="True">
-            <Node name="HelloBlazorServer" expanded="True">
-              <Node name="Data" expanded="True" />
-              <Node name="Pages" expanded="True">
-                <Node name="FetchData.razor" selected="True" />
-              </Node>
+            <Node name="HelloBlazorClient" expanded="True">
+              <Node name="Pages" expanded="True" />
+              <Node name="Properties" expanded="True" />
               <Node name="Shared" expanded="True" />
               <Node name="wwwroot" expanded="True">
-                <Node name="css" expanded="True" />
+                <Node name="sample-data" expanded="True">
+                  <Node name="weather.json" selected="True" />
+                </Node>
               </Node>
             </Node>
           </Node>
