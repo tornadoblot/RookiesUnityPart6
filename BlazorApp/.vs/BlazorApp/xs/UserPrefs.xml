@@ -1,0 +1,31 @@
+﻿<Properties StartupConfiguration="{5973C7D7-EAC3-461C-A1B9-99A41BF3861B}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="BlazorApp/Pages/Binding.razor">
+    <Files>
+      <File FileName="BlazorApp/Pages/Counter.razor" Line="1" Column="1" />
+      <File FileName="BlazorApp/Pages/FetchData.razor" Line="6" Column="26" />
+      <File FileName="BlazorApp/Pages/Binding.razor" Line="6" Column="68" />
+      <File FileName="BlazorApp/Shared/NavMenu.razor" Line="27" Column="81" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="BlazorApp" expanded="True">
+            <Node name="BlazorApp" expanded="True">
+              <Node name="Pages" expanded="True">
+                <Node name="Binding.razor" selected="True" />
+              </Node>
+              <Node name="Shared" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.BlazorApp PreferredExecutionTarget="/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
