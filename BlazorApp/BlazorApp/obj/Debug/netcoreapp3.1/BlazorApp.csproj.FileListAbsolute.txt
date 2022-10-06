@@ -15,7 +15,6 @@
 /Users/electriclamb/Desktop/RookiesUnityPart6/BlazorApp/BlazorApp/obj/Debug/netcoreapp3.1/BlazorApp.MvcApplicationPartsAssemblyInfo.cache
 /Users/electriclamb/Desktop/RookiesUnityPart6/BlazorApp/BlazorApp/obj/Debug/netcoreapp3.1/BlazorApp.RazorComponent.input.cache
 /Users/electriclamb/Desktop/RookiesUnityPart6/BlazorApp/BlazorApp/obj/Debug/netcoreapp3.1/RazorDeclaration/App.razor.g.cs
-/Users/electriclamb/Desktop/RookiesUnityPart6/BlazorApp/BlazorApp/obj/Debug/netcoreapp3.1/RazorDeclaration/Pages/Binding.razor.g.cs
 /Users/electriclamb/Desktop/RookiesUnityPart6/BlazorApp/BlazorApp/obj/Debug/netcoreapp3.1/RazorDeclaration/Pages/Counter.razor.g.cs
 /Users/electriclamb/Desktop/RookiesUnityPart6/BlazorApp/BlazorApp/obj/Debug/netcoreapp3.1/RazorDeclaration/Pages/FetchData.razor.g.cs
 /Users/electriclamb/Desktop/RookiesUnityPart6/BlazorApp/BlazorApp/obj/Debug/netcoreapp3.1/RazorDeclaration/Pages/Index.razor.g.cs
@@ -29,7 +28,6 @@
 /Users/electriclamb/Desktop/RookiesUnityPart6/BlazorApp/BlazorApp/obj/Debug/netcoreapp3.1/BlazorApp.TagHelpers.output.cache
 /Users/electriclamb/Desktop/RookiesUnityPart6/BlazorApp/BlazorApp/obj/Debug/netcoreapp3.1/BlazorApp.RazorCoreGenerate.cache
 /Users/electriclamb/Desktop/RookiesUnityPart6/BlazorApp/BlazorApp/obj/Debug/netcoreapp3.1/Razor/App.razor.g.cs
-/Users/electriclamb/Desktop/RookiesUnityPart6/BlazorApp/BlazorApp/obj/Debug/netcoreapp3.1/Razor/Pages/Binding.razor.g.cs
 /Users/electriclamb/Desktop/RookiesUnityPart6/BlazorApp/BlazorApp/obj/Debug/netcoreapp3.1/Razor/Pages/Counter.razor.g.cs
 /Users/electriclamb/Desktop/RookiesUnityPart6/BlazorApp/BlazorApp/obj/Debug/netcoreapp3.1/Razor/Pages/FetchData.razor.g.cs
 /Users/electriclamb/Desktop/RookiesUnityPart6/BlazorApp/BlazorApp/obj/Debug/netcoreapp3.1/Razor/Pages/Index.razor.g.cs
@@ -49,3 +47,5 @@
 /Users/electriclamb/Desktop/RookiesUnityPart6/BlazorApp/BlazorApp/obj/Debug/netcoreapp3.1/BlazorApp.pdb
 /Users/electriclamb/Desktop/RookiesUnityPart6/BlazorApp/BlazorApp/obj/Debug/netcoreapp3.1/BlazorApp.genruntimeconfig.cache
 /Users/electriclamb/Desktop/RookiesUnityPart6/BlazorApp/BlazorApp/obj/Debug/netcoreapp3.1/BlazorApp.csproj.CopyComplete
+/Users/electriclamb/Desktop/RookiesUnityPart6/BlazorApp/BlazorApp/obj/Debug/netcoreapp3.1/RazorDeclaration/Pages/User.razor.g.cs
+/Users/electriclamb/Desktop/RookiesUnityPart6/BlazorApp/BlazorApp/obj/Debug/netcoreapp3.1/Razor/Pages/User.razor.g.cs
