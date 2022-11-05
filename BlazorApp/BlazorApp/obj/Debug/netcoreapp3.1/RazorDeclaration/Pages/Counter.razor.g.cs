@@ -93,6 +93,9 @@ using System.Threading;
 #nullable restore
 #line 11 "/Users/electriclamb/Desktop/RookiesUnityPart6/BlazorApp/BlazorApp/Pages/Counter.razor"
        
+    [CascadingParameter(Name = "ThemeColor")]
+    string _color { get; set; }
+
     private int currentCount = 0;
 
     private void IncrementCount()

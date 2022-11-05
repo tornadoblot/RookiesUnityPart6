@@ -91,11 +91,14 @@ using BlazorApp.Data;
         }
         #pragma warning restore 1998
 #nullable restore
-#line 21 "/Users/electriclamb/Desktop/RookiesUnityPart6/BlazorApp/BlazorApp/Pages/User.razor"
+#line 33 "/Users/electriclamb/Desktop/RookiesUnityPart6/BlazorApp/BlazorApp/Pages/User.razor"
        
+
+    string _selectedColor = "Green";
+    List<string> _options = new List<string>() { "Green", "Red", "Blue" };
+
     List<UserData> _users = new List<UserData>();
     ShowUser _showUser;
-
 
     string _inputName;
 

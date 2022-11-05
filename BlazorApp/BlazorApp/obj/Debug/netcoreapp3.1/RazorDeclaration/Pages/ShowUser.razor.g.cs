@@ -90,13 +90,16 @@ using BlazorApp.Data;
         }
         #pragma warning restore 1998
 #nullable restore
-#line 19 "/Users/electriclamb/Desktop/RookiesUnityPart6/BlazorApp/BlazorApp/Pages/ShowUser.razor"
+#line 21 "/Users/electriclamb/Desktop/RookiesUnityPart6/BlazorApp/BlazorApp/Pages/ShowUser.razor"
        
+    [CascadingParameter(Name = "ThemeColor")]
+    string _color { get; set; }
+
     [Parameter]
     public List<UserData> Users { get; set; }
 
     [Parameter]
-    public Action CallbackTest{ get; set; }
+    public EventCallback CallbackTest{ get; set; }
 
     protected override void OnInitialized()
     {
@@ -109,7 +112,7 @@ using BlazorApp.Data;
     {
         Users.Remove(user);
 
-        CallbackTest.Invoke();
+        CallbackTest.InvokeAsync(null);
     }
 
     public void AddUser(UserData user)
