@@ -49,3 +49,5 @@
 /Users/electriclamb/Desktop/RookiesUnityPart6/BlazorApp/BlazorApp/obj/Debug/netcoreapp3.1/BlazorApp.csproj.CopyComplete
 /Users/electriclamb/Desktop/RookiesUnityPart6/BlazorApp/BlazorApp/obj/Debug/netcoreapp3.1/RazorDeclaration/Pages/User.razor.g.cs
 /Users/electriclamb/Desktop/RookiesUnityPart6/BlazorApp/BlazorApp/obj/Debug/netcoreapp3.1/Razor/Pages/User.razor.g.cs
+/Users/electriclamb/Desktop/RookiesUnityPart6/BlazorApp/BlazorApp/obj/Debug/netcoreapp3.1/RazorDeclaration/Pages/ShowUser.razor.g.cs
+/Users/electriclamb/Desktop/RookiesUnityPart6/BlazorApp/BlazorApp/obj/Debug/netcoreapp3.1/Razor/Pages/ShowUser.razor.g.cs

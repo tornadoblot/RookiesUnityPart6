@@ -76,14 +76,13 @@ using BlazorApp.Shared;
 #line hidden
 #nullable disable
 #nullable restore
-#line 3 "/Users/electriclamb/Desktop/RookiesUnityPart6/BlazorApp/BlazorApp/Pages/Counter.razor"
-using System.Threading;
+#line 1 "/Users/electriclamb/Desktop/RookiesUnityPart6/BlazorApp/BlazorApp/Pages/ShowUser.razor"
+using BlazorApp.Data;
 
 #line default
 #line hidden
 #nullable disable
-    [Microsoft.AspNetCore.Components.RouteAttribute("/counter")]
-    public partial class Counter : Microsoft.AspNetCore.Components.ComponentBase
+    public partial class ShowUser : Microsoft.AspNetCore.Components.ComponentBase
     {
         #pragma warning disable 1998
         protected override void BuildRenderTree(Microsoft.AspNetCore.Components.Rendering.RenderTreeBuilder __builder)
@@ -91,26 +90,33 @@ using System.Threading;
         }
         #pragma warning restore 1998
 #nullable restore
-#line 11 "/Users/electriclamb/Desktop/RookiesUnityPart6/BlazorApp/BlazorApp/Pages/Counter.razor"
+#line 19 "/Users/electriclamb/Desktop/RookiesUnityPart6/BlazorApp/BlazorApp/Pages/ShowUser.razor"
        
-    private int currentCount = 0;
+    [Parameter]
+    public List<UserData> Users { get; set; }
 
-    private void IncrementCount()
+    [Parameter]
+    public Action CallbackTest{ get; set; }
+
+    protected override void OnInitialized()
     {
-        currentCount++;
+        Users.Add(new UserData() { Name = "Chovy" });
+        Users.Add(new UserData() { Name = "Peanut" });
+        Users.Add(new UserData() { Name = "Doran" });
     }
 
-    void AutoIncrement()
+    public void KickUser(UserData user)
     {
-        var timer = new Timer(x =>
-        {
-            InvokeAsync(() =>
-            {
-                IncrementCount();
-                StateHasChanged();
-            });
-        }, null, 1000, 1000);
+        Users.Remove(user);
+
+        CallbackTest.Invoke();
     }
+
+    public void AddUser(UserData user)
+    {
+        Users.Add(user);
+    }
+
 
 #line default
 #line hidden

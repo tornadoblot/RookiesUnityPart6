@@ -1,10 +1,11 @@
 ﻿<Properties StartupConfiguration="{5973C7D7-EAC3-461C-A1B9-99A41BF3861B}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="BlazorApp/Pages/Counter.razor">
+  <MonoDevelop.Ide.Workbench ActiveDocument="BlazorApp/Pages/ShowUser.razor">
     <Files>
       <File FileName="BlazorApp/Data/UserData.cs" Line="6" Column="41" />
       <File FileName="BlazorApp/Shared/NavMenu.razor" />
-      <File FileName="BlazorApp/Pages/User.razor" Line="45" Column="55" />
-      <File FileName="BlazorApp/Pages/Counter.razor" Line="21" Column="35" />
+      <File FileName="BlazorApp/Pages/User.razor" Line="23" Column="24" />
+      <File FileName="BlazorApp/Pages/Counter.razor" Line="15" Column="6" />
+      <File FileName="BlazorApp/Pages/ShowUser.razor" Line="9" Column="11" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -13,7 +14,7 @@
             <Node name="BlazorApp" expanded="True">
               <Node name="Data" expanded="True" />
               <Node name="Pages" expanded="True">
-                <Node name="Counter.razor" selected="True" />
+                <Node name="ShowUser.razor" selected="True" />
               </Node>
               <Node name="Shared" expanded="True" />
             </Node>
