@@ -2,25 +2,28 @@
   <MonoDevelop.Ide.ItemProperties.HelloEmpty PreferredExecutionTarget="/Applications/Safari.app" />
   <MonoDevelop.Ide.ItemProperties.HelloBlazorClient PreferredExecutionTarget="/Applications/Safari.app" />
   <MonoDevelop.Ide.ItemProperties.HelloBlazorServer PreferredExecutionTarget="/Applications/Safari.app" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="HelloBlazorClient/wwwroot/sample-data/weather.json">
+  <MonoDevelop.Ide.Workbench ActiveDocument="HelloBlazorClient/Pages/FetchData.razor">
     <Files>
-      <File FileName="HelloBlazorClient/Pages/FetchData.razor" Line="19" Column="26" />
-      <File FileName="HelloBlazorClient/Program.cs" Line="1" Column="1" />
+      <File FileName="HelloBlazorClient/Pages/FetchData.razor" Line="27" Column="42" />
+      <File FileName="HelloBlazorClient/Program.cs" />
       <File FileName="HelloBlazorClient/wwwroot/sample-data/weather.json" Line="20" Column="23" />
+      <File FileName="HelloWebAPI/Startup.cs" Line="18" Column="22" />
+      <File FileName="HelloWebAPI/Controllers/WeatherForecastController.cs" Line="9" Column="2" />
+      <File FileName="HelloWebAPI/Program.cs" Line="1" Column="1" />
+      <File FileName="HelloWebAPI/WeatherForecast.cs" Line="1" Column="1" />
+      <File FileName="HelloBlazorClient/Pages/Counter.razor" Line="1" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="HelloAspNet" expanded="True">
             <Node name="HelloBlazorClient" expanded="True">
-              <Node name="Pages" expanded="True" />
-              <Node name="Properties" expanded="True" />
-              <Node name="Shared" expanded="True" />
-              <Node name="wwwroot" expanded="True">
-                <Node name="sample-data" expanded="True">
-                  <Node name="weather.json" selected="True" />
-                </Node>
+              <Node name="Pages" expanded="True">
+                <Node name="FetchData.razor" selected="True" />
               </Node>
+            </Node>
+            <Node name="HelloWebAPI" expanded="True">
+              <Node name="Controllers" expanded="True" />
             </Node>
           </Node>
         </State>

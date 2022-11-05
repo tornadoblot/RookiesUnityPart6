@@ -95,6 +95,7 @@ using BlazorApp.Data;
        
     List<UserData> _users = new List<UserData>();
     string _inputName;
+    string _btnClass = "btn btn-primary";
 
     // OnStart 같은 느낌
     protected override void OnInitialized()
@@ -102,17 +103,28 @@ using BlazorApp.Data;
         _users.Add(new UserData() { Name = "Chovy" });
         _users.Add(new UserData() { Name = "Peanut" });
         _users.Add(new UserData() { Name = "Doran" });
+        RefreshButton();
     }
 
     void AddUser()
     {
         _users.Add(new UserData { Name = _inputName });
         _inputName = "";
+        RefreshButton();
     }
 
     void KickUser(UserData user)
     {
         _users.Remove(user);
+        RefreshButton();
+    }
+
+    void RefreshButton()
+    {
+        if (_users.Count() % 2 == 0)
+            _btnClass = "btn btn-primary";
+        else
+            _btnClass = "btn btn-secondary";
     }
 
 #line default
