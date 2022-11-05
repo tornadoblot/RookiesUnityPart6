@@ -1,8 +1,9 @@
 ﻿<Properties StartupConfiguration="{5973C7D7-EAC3-461C-A1B9-99A41BF3861B}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="BlazorApp/Pages/TableTemplate.razor">
+  <MonoDevelop.Ide.Workbench ActiveDocument="BlazorApp/Pages/Index.razor">
     <Files>
-      <File FileName="BlazorApp/Pages/FetchData.razor" Line="11" Column="2" />
-      <File FileName="BlazorApp/Pages/TableTemplate.razor" Line="6" Column="1" NotebookId="1" />
+      <File FileName="BlazorApp/Pages/Index.razor" Line="21" Column="24" />
+      <File FileName="BlazorApp/Startup.cs" Line="35" Column="1" />
+      <File FileName="BlazorApp/Data/FoodService.cs" Line="94" Column="1" NotebookId="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -11,7 +12,7 @@
             <Node name="BlazorApp" expanded="True">
               <Node name="Data" expanded="True" />
               <Node name="Pages" expanded="True">
-                <Node name="TableTemplate.razor" selected="True" />
+                <Node name="Index.razor" selected="True" />
               </Node>
               <Node name="Shared" expanded="True" />
             </Node>
