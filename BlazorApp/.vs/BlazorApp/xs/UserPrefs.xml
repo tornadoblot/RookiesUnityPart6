@@ -1,21 +1,19 @@
 ﻿<Properties StartupConfiguration="{342E45B4-998F-43DD-A343-FD90BCFB93E5}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="BlazorStudy/Pages/Counter.razor">
+  <MonoDevelop.Ide.Workbench ActiveDocument="BlazorStudy/Data/WeatherForecast.cs">
     <Files>
-      <File FileName="BlazorStudy/Program.cs" Line="14" Column="36" />
-      <File FileName="BlazorStudy/Shared/MainLayout.razor" />
-      <File FileName="BlazorStudy/Shared/MainLayout2.razor" />
-      <File FileName="BlazorStudy/Pages/Counter.razor" Line="7" Column="32" />
-      <File FileName="BlazorStudy/App.razor" />
-      <File FileName="BlazorStudy/_Imports.razor" />
+      <File FileName="BlazorStudy/Pages/FetchData.razor" Line="90" Column="42" />
+      <File FileName="BlazorStudy/Data/WeatherForecastService.cs" Line="14" Column="1" />
+      <File FileName="BlazorStudy/Data/WeatherForecast.cs" Line="9" Column="10" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="BlazorApp" expanded="True">
             <Node name="BlazorStudy" expanded="True">
-              <Node name="Pages" expanded="True">
-                <Node name="Counter.razor" selected="True" />
+              <Node name="Data" expanded="True">
+                <Node name="WeatherForecast.cs" selected="True" />
               </Node>
+              <Node name="Pages" expanded="True" />
             </Node>
           </Node>
         </State>

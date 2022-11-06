@@ -91,13 +91,34 @@ using BlazorStudy.Data;
         }
         #pragma warning restore 1998
 #nullable restore
-#line 39 "/Users/electriclamb/Desktop/RookiesUnityPart6/BlazorApp/BlazorStudy/Pages/FetchData.razor"
+#line 80 "/Users/electriclamb/Desktop/RookiesUnityPart6/BlazorApp/BlazorStudy/Pages/FetchData.razor"
        
-    private WeatherForecast[] forecasts;
+    private List<WeatherForecast> _forecasts;
+
+    bool _showPopup = false;
+    WeatherForecast _addForecast;
 
     protected override async Task OnInitializedAsync()
     {
-        forecasts = await ForecastService.GetForecastAsync(DateTime.Now);
+        _forecasts = await ForecastService.GetForecastAsync(DateTime.Now);
+    }
+
+    public void AddNewForecast()
+    {
+        _showPopup = true;
+        _addForecast = new WeatherForecast();
+    }
+
+    void SaveForecast()
+    {
+        _showPopup = false;
+        _addForecast.Date = DateTime.Now;
+        _forecasts.Add(_addForecast);
+    }
+
+    void ClosePopup()
+    {
+        _showPopup = false;
     }
 
 #line default
