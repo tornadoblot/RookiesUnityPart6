@@ -1,8 +1,11 @@
 ﻿<Properties StartupConfiguration="{BD1D5C87-A2E3-4933-B01E-A6976726F266}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="BlazorApp2/Shared/NavMenu.razor">
+  <MonoDevelop.Ide.Workbench ActiveDocument="BlazorApp2/Pages/JSInterop.razor">
     <Files>
-      <File FileName="BlazorApp2/Data/CounterState.cs" Line="23" Column="1" />
-      <File FileName="BlazorApp2/Shared/NavMenu.razor" Line="44" Column="1" />
+      <File FileName="BlazorApp2/Data/CounterState.cs" Line="8" Column="27" />
+      <File FileName="BlazorApp2/Shared/NavMenu.razor" Line="38" Column="55" />
+      <File FileName="BlazorApp2/wwwroot/test.js" Line="10" Column="8" />
+      <File FileName="BlazorApp2/Pages/_Host.cshtml" Line="30" Column="45" />
+      <File FileName="BlazorApp2/Pages/JSInterop.razor" Line="1" Column="15" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -10,10 +13,11 @@
           <Node name="BlazorApp" expanded="True">
             <Node name="BlazorApp2" expanded="True">
               <Node name="Data" expanded="True" />
-              <Node name="Pages" expanded="True" />
-              <Node name="Shared" expanded="True">
-                <Node name="NavMenu.razor" selected="True" />
+              <Node name="Pages" expanded="True">
+                <Node name="JSInterop.razor" selected="True" />
               </Node>
+              <Node name="Shared" expanded="True" />
+              <Node name="wwwroot" expanded="True" />
             </Node>
           </Node>
         </State>

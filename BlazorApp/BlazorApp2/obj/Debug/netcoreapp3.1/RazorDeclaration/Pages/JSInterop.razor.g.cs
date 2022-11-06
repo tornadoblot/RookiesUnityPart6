@@ -4,7 +4,7 @@
 #pragma warning disable 0649
 #pragma warning disable 0169
 
-namespace BlazorApp2.Shared
+namespace BlazorApp2.Pages
 {
     #line hidden
     using System;
@@ -75,7 +75,8 @@ using BlazorApp2.Shared;
 #line default
 #line hidden
 #nullable disable
-    public partial class NavMenu : Microsoft.AspNetCore.Components.ComponentBase, IDisposable
+    [Microsoft.AspNetCore.Components.RouteAttribute("/JSInterop")]
+    public partial class JSInterop : Microsoft.AspNetCore.Components.ComponentBase
     {
         #pragma warning disable 1998
         protected override void BuildRenderTree(Microsoft.AspNetCore.Components.Rendering.RenderTreeBuilder __builder)
@@ -83,36 +84,28 @@ using BlazorApp2.Shared;
         }
         #pragma warning restore 1998
 #nullable restore
-#line 40 "/Users/electriclamb/Desktop/RookiesUnityPart6/BlazorApp/BlazorApp2/Shared/NavMenu.razor"
+#line 17 "/Users/electriclamb/Desktop/RookiesUnityPart6/BlazorApp/BlazorApp2/Pages/JSInterop.razor"
        
-    private bool collapseNavMenu = true;
 
-    private string NavMenuCssClass => collapseNavMenu ? "collapse" : null;
+    string _name = "";
 
-    private void ToggleNavMenu()
+    public async void HelloWorld()
     {
-        collapseNavMenu = !collapseNavMenu;
+        await JSRuntime.InvokeVoidAsync("testFunction.helloWorld", null);
     }
 
-    protected override void OnInitialized()
+    public async void InputName()
     {
-        CounterState.OnStateChanged += OnStateChanged;
+        _name = await JSRuntime.InvokeAsync<string>("testFunction.inputName", "Input Name");
+
+        StateHasChanged();
     }
 
-    void OnStateChanged()
-    {
-        this.StateHasChanged();
-    }
-
-    void IDisposable.Dispose()
-    {
-        CounterState.OnStateChanged -= OnStateChanged;
-    }
 
 #line default
 #line hidden
 #nullable disable
-        [global::Microsoft.AspNetCore.Components.InjectAttribute] private BlazorApp2.Data.CounterState CounterState { get; set; }
+        [global::Microsoft.AspNetCore.Components.InjectAttribute] private IJSRuntime JSRuntime { get; set; }
     }
 }
 #pragma warning restore 1591
