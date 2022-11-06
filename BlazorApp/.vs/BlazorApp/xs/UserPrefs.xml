@@ -1,19 +1,19 @@
-﻿<Properties StartupConfiguration="{342E45B4-998F-43DD-A343-FD90BCFB93E5}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="BlazorStudy/Data/WeatherForecast.cs">
+﻿<Properties StartupConfiguration="{BD1D5C87-A2E3-4933-B01E-A6976726F266}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="BlazorApp2/Shared/NavMenu.razor">
     <Files>
-      <File FileName="BlazorStudy/Pages/FetchData.razor" Line="90" Column="42" />
-      <File FileName="BlazorStudy/Data/WeatherForecastService.cs" Line="14" Column="1" />
-      <File FileName="BlazorStudy/Data/WeatherForecast.cs" Line="9" Column="10" />
+      <File FileName="BlazorApp2/Data/CounterState.cs" Line="23" Column="1" />
+      <File FileName="BlazorApp2/Shared/NavMenu.razor" Line="44" Column="1" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="BlazorApp" expanded="True">
-            <Node name="BlazorStudy" expanded="True">
-              <Node name="Data" expanded="True">
-                <Node name="WeatherForecast.cs" selected="True" />
-              </Node>
+            <Node name="BlazorApp2" expanded="True">
+              <Node name="Data" expanded="True" />
               <Node name="Pages" expanded="True" />
+              <Node name="Shared" expanded="True">
+                <Node name="NavMenu.razor" selected="True" />
+              </Node>
             </Node>
           </Node>
         </State>
@@ -22,6 +22,7 @@
   </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.ItemProperties.BlazorStudy PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.ItemProperties.BlazorApp2 PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.ItemProperties.BlazorApp PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
