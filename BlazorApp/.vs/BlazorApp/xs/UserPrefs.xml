@@ -2,10 +2,10 @@
   <MonoDevelop.Ide.Workbench ActiveDocument="BlazorApp2/Pages/JSInterop.razor">
     <Files>
       <File FileName="BlazorApp2/Data/CounterState.cs" Line="8" Column="27" />
-      <File FileName="BlazorApp2/Shared/NavMenu.razor" Line="38" Column="55" />
-      <File FileName="BlazorApp2/wwwroot/test.js" Line="10" Column="8" />
+      <File FileName="BlazorApp2/Shared/NavMenu.razor" Line="30" Column="83" />
+      <File FileName="BlazorApp2/wwwroot/test.js" Line="8" Column="47" />
       <File FileName="BlazorApp2/Pages/_Host.cshtml" Line="30" Column="45" />
-      <File FileName="BlazorApp2/Pages/JSInterop.razor" Line="1" Column="15" />
+      <File FileName="BlazorApp2/Pages/JSInterop.razor" Line="24" Column="6" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">

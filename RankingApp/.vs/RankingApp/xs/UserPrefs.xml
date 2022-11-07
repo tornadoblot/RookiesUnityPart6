@@ -1,0 +1,30 @@
+﻿<Properties StartupConfiguration="{F0796D03-C5E5-4893-937B-3293800AFBC3}|Default">
+  <MonoDevelop.Ide.ItemProperties.RankingApp FirstBuild="True" PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="RankingApp/appsettings.json">
+    <Files>
+      <File FileName="RankingApp/Data/ApplicationDbContext.cs" Line="1" Column="1" />
+      <File FileName="RankingApp/Startup.cs" Line="36" Column="77" />
+      <File FileName="RankingApp/appsettings.json" Line="11" Column="5" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="RankingApp" expanded="True">
+            <Node name="RankingApp" expanded="True">
+              <Node name="Data" expanded="True">
+                <Node name="Migrations" expanded="True" />
+              </Node>
+              <Node name="appsettings.json" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
