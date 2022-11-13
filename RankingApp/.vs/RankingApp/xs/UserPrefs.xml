@@ -1,10 +1,9 @@
 ﻿<Properties StartupConfiguration="{F0796D03-C5E5-4893-937B-3293800AFBC3}|Default">
-  <MonoDevelop.Ide.ItemProperties.RankingApp FirstBuild="True" PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="RankingApp/appsettings.json">
+  <MonoDevelop.Ide.ItemProperties.RankingApp PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="RankingApp/Startup.cs">
     <Files>
-      <File FileName="RankingApp/Data/ApplicationDbContext.cs" Line="1" Column="1" />
-      <File FileName="RankingApp/Startup.cs" Line="36" Column="77" />
-      <File FileName="RankingApp/appsettings.json" Line="11" Column="5" />
+      <File FileName="RankingApp/Startup.cs" Line="35" Column="29" />
+      <File FileName="RankingApp/appsettings.json" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
@@ -14,7 +13,7 @@
               <Node name="Data" expanded="True">
                 <Node name="Migrations" expanded="True" />
               </Node>
-              <Node name="appsettings.json" selected="True" />
+              <Node name="Startup.cs" selected="True" />
             </Node>
           </Node>
         </State>
