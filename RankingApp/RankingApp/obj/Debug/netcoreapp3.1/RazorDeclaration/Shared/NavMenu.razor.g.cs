@@ -83,7 +83,7 @@ using RankingApp.Shared;
         }
         #pragma warning restore 1998
 #nullable restore
-#line 28 "/Users/electriclamb/Desktop/RookiesUnityPart6/RankingApp/RankingApp/Shared/NavMenu.razor"
+#line 23 "/Users/electriclamb/Desktop/RookiesUnityPart6/RankingApp/RankingApp/Shared/NavMenu.razor"
        
     private bool collapseNavMenu = true;
 
