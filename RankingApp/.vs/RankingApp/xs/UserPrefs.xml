@@ -1,23 +1,17 @@
 ﻿<Properties StartupConfiguration="{F0796D03-C5E5-4893-937B-3293800AFBC3}|Default">
   <MonoDevelop.Ide.ItemProperties.RankingApp PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="RankingApp/appsettings.json">
+  <MonoDevelop.Ide.Workbench ActiveDocument="RankingApp/Pages/Ranking.razor">
     <Files>
-      <File FileName="RankingApp/Data/Models/GameResult.cs" Line="1" Column="1" />
-      <File FileName="RankingApp/appsettings.json" Line="14" Column="1" />
+      <File FileName="RankingApp/Pages/Ranking.razor" Line="7" Column="17" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="RankingApp" expanded="True">
             <Node name="RankingApp" expanded="True">
-              <Node name="Data" expanded="True">
-                <Node name="Migrations" expanded="True" />
-                <Node name="Models" expanded="True" />
-                <Node name="Services" expanded="True" />
+              <Node name="Pages" expanded="True">
+                <Node name="Ranking.razor" selected="True" />
               </Node>
-              <Node name="Pages" expanded="True" />
-              <Node name="Shared" expanded="True" />
-              <Node name="appsettings.json" selected="True" />
             </Node>
           </Node>
         </State>

@@ -14,7 +14,7 @@
         "outputPath": "/Users/electriclamb/Desktop/RookiesUnityPart6/RankingApp/RankingApp/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "/Users/electriclamb/.config/NuGet/NuGet.Config"
+          "/Users/electriclamb/.nuget/NuGet/NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "netcoreapp3.1"

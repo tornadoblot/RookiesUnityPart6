@@ -107,3 +107,4 @@
 /Users/electriclamb/Desktop/RookiesUnityPart6/RankingApp/RankingApp/obj/Debug/netcoreapp3.1/RankingApp.genruntimeconfig.cache
 /Users/electriclamb/Desktop/RookiesUnityPart6/RankingApp/RankingApp/obj/Debug/netcoreapp3.1/RazorDeclaration/Pages/Ranking.razor.g.cs
 /Users/electriclamb/Desktop/RookiesUnityPart6/RankingApp/RankingApp/obj/Debug/netcoreapp3.1/Razor/Pages/Ranking.razor.g.cs
+/Users/electriclamb/Desktop/RookiesUnityPart6/RankingApp/RankingApp/bin/Debug/netcoreapp3.1/RankingApp
