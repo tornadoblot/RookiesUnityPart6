@@ -1,31 +1,35 @@
 ﻿<Properties StartupConfiguration="{F0796D03-C5E5-4893-937B-3293800AFBC3}|Default">
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
-  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.ItemProperties.RankingApp PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="RankingApp/Pages/Ranking.razor">
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workbench ActiveDocument="WebApi/appsettings.json">
     <Files>
-      <File FileName="RankingApp/Pages/Ranking.razor" Line="132" Column="1" />
-      <File FileName="RankingApp/Data/Services/RankingService.cs" Line="67" Column="36" />
+      <File FileName="WebApi/appsettings.json" Line="4" Column="113" />
+      <File FileName="WebApi/Startup.cs" />
+      <File FileName="SharedData/Models/GameResult.cs" />
+      <File FileName="WebApi/Program.cs" />
+      <File FileName="WebApi/Migrations/20221118165328_RankingApp.cs" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="RankingApp" expanded="True">
-            <Node name="RankingApp" expanded="True">
-              <Node name="Data" expanded="True">
-                <Node name="Services" expanded="True" />
-              </Node>
-              <Node name="Pages" expanded="True">
-                <Node name="Ranking.razor" selected="True" />
-              </Node>
+            <Node name="RankingApp" expanded="True" />
+            <Node name="WebApi" expanded="True">
+              <Node name="Controllers" expanded="True" />
+              <Node name="Data" expanded="True" />
+              <Node name="Migrations" expanded="True" />
+              <Node name="appsettings.json" selected="True" />
             </Node>
           </Node>
         </State>
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore>
+      <Breakpoint file="/Users/electriclamb/Desktop/RookiesUnityPart6/RankingApp/SharedData/Models/GameResult.cs" relfile="SharedData/Models/GameResult.cs" line="9" column="28" />
+    </BreakpointStore>
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
 </Properties>

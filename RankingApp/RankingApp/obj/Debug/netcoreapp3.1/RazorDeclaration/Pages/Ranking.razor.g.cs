@@ -145,6 +145,7 @@ using RankingApp.Data.Services;
         }
 
         _showPopup = false;
+
         _gameResults = await RankingService.GetGameResultsAsync();
     }
 
