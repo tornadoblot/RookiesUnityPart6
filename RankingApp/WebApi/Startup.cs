@@ -34,7 +34,6 @@ namespace WebApi
             services.AddDbContext<ApplicationDbContext>(options =>
                 options.UseSqlite(
                     Configuration.GetConnectionString("DefaultConnection")));
-            //System.Reflection.Assembly.GetExecutingAssembly().Location + "RankingApiDB.db"));
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
