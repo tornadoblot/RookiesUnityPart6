@@ -6,7 +6,6 @@
   </PropertyGroup>
 
   <ItemGroup>
-    <None Remove="Data\Models\" />
     <None Remove="Data\Services\" />
   </ItemGroup>
   <ItemGroup>
@@ -22,7 +21,11 @@
   </ItemGroup>
 
   <ItemGroup>
-    <Folder Include="Data\Models\" />
     <Folder Include="Data\Services\" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\SharedData\SharedData.csproj">
+      <GlobalPropertiesToRemove></GlobalPropertiesToRemove>
+    </ProjectReference>
   </ItemGroup>
 </Project>

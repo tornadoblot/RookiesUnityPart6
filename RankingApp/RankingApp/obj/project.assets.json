@@ -741,6 +741,16 @@
             "related": ".xml"
           }
         }
+      },
+      "SharedData/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v3.1",
+        "compile": {
+          "bin/placeholder/SharedData.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/SharedData.dll": {}
+        }
       }
     }
   },
@@ -1759,6 +1769,11 @@
         "useSharedDesignerContext.txt",
         "version.txt"
       ]
+    },
+    "SharedData/1.0.0": {
+      "type": "project",
+      "path": "../SharedData/SharedData.csproj",
+      "msbuildProject": "../SharedData/SharedData.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -1767,7 +1782,8 @@
       "Microsoft.AspNetCore.Identity.EntityFrameworkCore >= 3.1.28",
       "Microsoft.AspNetCore.Identity.UI >= 3.1.28",
       "Microsoft.EntityFrameworkCore.Sqlite >= 3.1.28",
-      "Microsoft.EntityFrameworkCore.Tools >= 3.1.28"
+      "Microsoft.EntityFrameworkCore.Tools >= 3.1.28",
+      "SharedData >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -1794,7 +1810,11 @@
       "frameworks": {
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
-          "projectReferences": {}
+          "projectReferences": {
+            "/Users/electriclamb/Desktop/RookiesUnityPart6/RankingApp/SharedData/SharedData.csproj": {
+              "projectPath": "/Users/electriclamb/Desktop/RookiesUnityPart6/RankingApp/SharedData/SharedData.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

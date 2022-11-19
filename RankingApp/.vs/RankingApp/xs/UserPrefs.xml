@@ -1,26 +1,43 @@
-﻿<Properties StartupConfiguration="{F0796D03-C5E5-4893-937B-3293800AFBC3}|Default">
+﻿<Properties StartupConfiguration="여러 프로젝트">
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MonoDevelop.Ide.ItemProperties.RankingApp PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.Workbench ActiveDocument="WebApi/appsettings.json">
+  <MultiItemStartupConfigurations>
+    <MultiItemSolutionRunConfiguration Id="여러 프로젝트" Name="여러 프로젝트">
+      <Items>
+        <StartupItem ItemId="{F0796D03-C5E5-4893-937B-3293800AFBC3}" ItemName="RankingApp" ConfigurationId="Default" />
+        <StartupItem ItemId="{747A6840-84E1-4727-AE4D-CCFE4BDA0671}" ItemName="WebApi" ConfigurationId="Default" />
+      </Items>
+    </MultiItemSolutionRunConfiguration>
+  </MultiItemStartupConfigurations>
+  <MonoDevelop.Ide.ItemProperties.WebApi PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="RankingApp/Data/Services/RankingService.cs">
     <Files>
-      <File FileName="WebApi/appsettings.json" Line="4" Column="113" />
-      <File FileName="WebApi/Startup.cs" />
-      <File FileName="SharedData/Models/GameResult.cs" />
-      <File FileName="WebApi/Program.cs" />
-      <File FileName="WebApi/Migrations/20221118165328_RankingApp.cs" />
+      <File FileName="WebApi/Controllers/WeatherForecastController.cs" Line="1" Column="1" />
+      <File FileName="WebApi/Startup.cs" Line="36" Column="78" />
+      <File FileName="WebApi/appsettings.json" Line="4" Column="5" />
+      <File FileName="WebApi/Controllers/RankingController.cs" Line="74" Column="1" />
+      <File FileName="RankingApp/Pages/Ranking.razor" Line="115" Column="31" />
+      <File FileName="RankingApp/Data/Services/RankingService.cs" Line="61" Column="1" />
+      <File FileName="RankingApp/Data/ApplicationDbContext.cs" Line="10" Column="6" />
+      <File FileName="RankingApp/Startup.cs" Line="40" Column="38" />
+      <File FileName="WebApi/Properties/launchSettings.json" Line="8" Column="23" />
+      <File FileName="RankingApp/appsettings.json" Line="3" Column="35" />
+      <File FileName="RankingApp/Program.cs" Line="1" Column="1" />
+      <File FileName="RankingApp/Properties/launchSettings.json" Line="19" Column="32" />
     </Files>
     <Pads>
       <Pad Id="ProjectPad">
         <State name="__root__">
           <Node name="RankingApp" expanded="True">
-            <Node name="RankingApp" expanded="True" />
-            <Node name="WebApi" expanded="True">
-              <Node name="Controllers" expanded="True" />
-              <Node name="Data" expanded="True" />
-              <Node name="Migrations" expanded="True" />
-              <Node name="appsettings.json" selected="True" />
+            <Node name="RankingApp" expanded="True">
+              <Node name="Data" expanded="True">
+                <Node name="Services" expanded="True">
+                  <Node name="RankingService.cs" selected="True" />
+                </Node>
+              </Node>
+              <Node name="Pages" expanded="True" />
+              <Node name="Properties" expanded="True" />
             </Node>
           </Node>
         </State>

@@ -108,3 +108,5 @@
 /Users/electriclamb/Desktop/RookiesUnityPart6/RankingApp/RankingApp/obj/Debug/netcoreapp3.1/RazorDeclaration/Pages/Ranking.razor.g.cs
 /Users/electriclamb/Desktop/RookiesUnityPart6/RankingApp/RankingApp/obj/Debug/netcoreapp3.1/Razor/Pages/Ranking.razor.g.cs
 /Users/electriclamb/Desktop/RookiesUnityPart6/RankingApp/RankingApp/bin/Debug/netcoreapp3.1/RankingApp
+/Users/electriclamb/Desktop/RookiesUnityPart6/RankingApp/RankingApp/bin/Debug/netcoreapp3.1/SharedData.dll
+/Users/electriclamb/Desktop/RookiesUnityPart6/RankingApp/RankingApp/bin/Debug/netcoreapp3.1/SharedData.pdb
