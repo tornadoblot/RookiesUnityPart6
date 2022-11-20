@@ -1,7 +1,51 @@
-﻿<Properties StartupConfiguration="여러 프로젝트">
-  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+﻿<Properties StartupConfiguration="{747A6840-84E1-4727-AE4D-CCFE4BDA0671}|Default">
+  <MonoDevelop.Ide.Workbench ActiveDocument="SharedData/Models/GameResult.cs">
+    <Files>
+      <File FileName="WebApi/Controllers/WeatherForecastController.cs" />
+      <File FileName="WebApi/Startup.cs" />
+      <File FileName="WebApi/appsettings.json" />
+      <File FileName="WebApi/Controllers/RankingController.cs" />
+      <File FileName="RankingApp/Pages/Ranking.razor" />
+      <File FileName="RankingApp/Data/Services/RankingService.cs" Line="61" Column="1" />
+      <File FileName="RankingApp/Data/ApplicationDbContext.cs" />
+      <File FileName="RankingApp/Startup.cs" />
+      <File FileName="WebApi/Properties/launchSettings.json" />
+      <File FileName="RankingApp/appsettings.json" />
+      <File FileName="RankingApp/Program.cs" />
+      <File FileName="RankingApp/Properties/launchSettings.json" />
+      <File FileName="SharedData/Models/GameResult.cs" Line="12" Column="5" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="RankingApp" expanded="True">
+            <Node name="RankingApp" expanded="True">
+              <Node name="Data" expanded="True">
+                <Node name="Services" expanded="True" />
+              </Node>
+              <Node name="Pages" expanded="True" />
+              <Node name="Properties" expanded="True" />
+            </Node>
+            <Node name="SharedData" expanded="True">
+              <Node name="Models" expanded="True">
+                <Node name="GameResult.cs" selected="True" />
+              </Node>
+            </Node>
+            <Node name="WebApi" expanded="True">
+              <Node name="Controllers" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.ItemProperties.RankingApp PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.ItemProperties.WebApi PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
   <MultiItemStartupConfigurations>
     <MultiItemSolutionRunConfiguration Id="여러 프로젝트" Name="여러 프로젝트">
       <Items>
@@ -10,43 +54,4 @@
       </Items>
     </MultiItemSolutionRunConfiguration>
   </MultiItemStartupConfigurations>
-  <MonoDevelop.Ide.ItemProperties.WebApi PreferredExecutionTarget="/System/Volumes/Preboot/Cryptexes/App/System/Applications/Safari.app" />
-  <MonoDevelop.Ide.Workbench ActiveDocument="RankingApp/Data/Services/RankingService.cs">
-    <Files>
-      <File FileName="WebApi/Controllers/WeatherForecastController.cs" Line="1" Column="1" />
-      <File FileName="WebApi/Startup.cs" Line="36" Column="78" />
-      <File FileName="WebApi/appsettings.json" Line="4" Column="5" />
-      <File FileName="WebApi/Controllers/RankingController.cs" Line="74" Column="1" />
-      <File FileName="RankingApp/Pages/Ranking.razor" Line="115" Column="31" />
-      <File FileName="RankingApp/Data/Services/RankingService.cs" Line="61" Column="1" />
-      <File FileName="RankingApp/Data/ApplicationDbContext.cs" Line="10" Column="6" />
-      <File FileName="RankingApp/Startup.cs" Line="40" Column="38" />
-      <File FileName="WebApi/Properties/launchSettings.json" Line="8" Column="23" />
-      <File FileName="RankingApp/appsettings.json" Line="3" Column="35" />
-      <File FileName="RankingApp/Program.cs" Line="1" Column="1" />
-      <File FileName="RankingApp/Properties/launchSettings.json" Line="19" Column="32" />
-    </Files>
-    <Pads>
-      <Pad Id="ProjectPad">
-        <State name="__root__">
-          <Node name="RankingApp" expanded="True">
-            <Node name="RankingApp" expanded="True">
-              <Node name="Data" expanded="True">
-                <Node name="Services" expanded="True">
-                  <Node name="RankingService.cs" selected="True" />
-                </Node>
-              </Node>
-              <Node name="Pages" expanded="True" />
-              <Node name="Properties" expanded="True" />
-            </Node>
-          </Node>
-        </State>
-      </Pad>
-    </Pads>
-  </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore>
-      <Breakpoint file="/Users/electriclamb/Desktop/RookiesUnityPart6/RankingApp/SharedData/Models/GameResult.cs" relfile="SharedData/Models/GameResult.cs" line="9" column="28" />
-    </BreakpointStore>
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
 </Properties>
